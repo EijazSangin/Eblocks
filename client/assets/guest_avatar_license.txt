@@ -1,0 +1,7 @@
+ROBLOX Boy
+Author: MatiasH290 (https://sketchfab.com/matias029)
+Source: https://sketchfab.com/3d-models/roblox-boy-d9366ebebbb3479ca80ba7eca0d78363
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+License URL: https://creativecommons.org/licenses/by/4.0/
+
+The supplied model and its texture are used for the locked guest avatar.

@@ -1,0 +1,15 @@
+[package]
+name = "playvortex-client"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[dependencies]
+macroquad = "0.4"
+reqwest = { version = "0.12", features = ["blocking", "json", "rustls-tls"], default-features = false }
+serde.workspace = true
+serde_json.workspace = true
+tokio = { version = "1", features = ["rt-multi-thread", "macros", "sync"] }
+tokio-tungstenite = { version = "0.26", features = ["rustls-tls-webpki-roots"] }
+futures-util = "0.3"
+http = "1"
